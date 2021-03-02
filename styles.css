@@ -227,6 +227,7 @@ padding-top:  4.5%;
 .contactintro
 {
  text-decoration:none;
+	width: 110%;
 }
 .contactdesc{
   width:40%;
