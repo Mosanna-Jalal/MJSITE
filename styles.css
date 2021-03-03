@@ -34,21 +34,21 @@ p{
   text-align: center;
 }
 .schoolpic{
-  width: 115%;
-  height: 115%;
+  width: 25%;
+  height: 25%;
   float: left;
- margin-left: 140%;
+ margin-left: 12%;
 }
 .schooldiv{
   position:absolute;
   margin-left: 9%;
-  margin-top: -3.36%;
+  margin-top: -1.16%;
 
 }
 .computerdiv{
   position:absolute;
-  margin-left: 26.2%;
-  margin-top: 2.1%;
+  margin-right: 6.2%;
+  margin-top: 3.1%;
 
 }
 
@@ -56,7 +56,7 @@ p{
   width: 37.5%;
   height: 32%;
   float: right;
- margin-left: 189%;
+ margin-right:-110%;
 
 }
 .skilldiv{
@@ -64,7 +64,7 @@ p{
   margin-left: 25%;
 }
 .schooling{
-  margin: auto;
+  margin:auto;
 }
 .inaddition{
   text-align: center;
@@ -227,7 +227,7 @@ padding-top:  4.5%;
 .contactintro
 {
  text-decoration:none;
-	width: 110%;
+ width: 110%;
 }
 .contactdesc{
   width:40%;
