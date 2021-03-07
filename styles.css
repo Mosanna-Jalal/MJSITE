@@ -1,4 +1,11 @@
- h3{
+.helo{
+color:#ff4c68;
+} 
+
+.getin{
+color:#91C9F2;
+}
+h3{
    color:#E238EC;
    text-align: center;
    text-decoration:underli;
@@ -336,6 +343,7 @@ padding-top:  4.5%;
 {
  text-decoration:none;
  width: 110%;
+	color:#91C9F2;
 }
 .contactdesc{
   width:40%;
