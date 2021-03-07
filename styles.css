@@ -1,5 +1,6 @@
 .helo{
 color:#ff4c68;
+	text-align: center;
 } 
 
 .getin{
@@ -202,9 +203,7 @@ a{
 }
 
 
-.hello{
-  text-align: center;
-}
+
 .footer-link{
   color:#3B3E40;
   font-weight: lighter;
